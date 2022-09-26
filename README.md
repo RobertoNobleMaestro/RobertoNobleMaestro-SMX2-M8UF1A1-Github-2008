@@ -17,7 +17,7 @@ Github es un repositorio online gratuito que permite gestionar proyectos y contr
 
 Es un sitio que permite a los usuarios recopilar y compartir imágenes y enlaces en tableros de anuncios digitales interactivos.
 
-![Foto](https://github.com/RobertoNobleMaestro/SMX2-M8UF1A1-Pinterest-2010-TemaExpuesto-RobertoNobleMaestro/blob/main/1_ZHs11avrYorv3OqKGrJ3wg.png)
+![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2010--RobertoNobleMaestro/blob/main/gitHub.png)
 
 
 
