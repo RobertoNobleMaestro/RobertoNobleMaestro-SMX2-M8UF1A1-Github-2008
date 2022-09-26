@@ -9,13 +9,13 @@ La fecha de creación de Github fué en 2008.
 
 ### **Definición**
 
-Github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajo y que la gente pueda colaborar con los proyectos de estos.
+Github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. 
 
 ![foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2010--RobertoNobleMaestro/blob/main/6073fbf151fa4565d48572dc_GitHub_aprender-programaciB3n.jpeg)  
  
 ### **Uso**
 
-Es un sitio que permite a los usuarios recopilar y compartir imágenes y enlaces en tableros de anuncios digitales interactivos.
+Es un sitio que permite a desarrolladores  almacenar sus trabajos y que la gente pueda colaborar con los proyectos de estos para asi hacer su propia versión.
 
 
 ![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2010--RobertoNobleMaestro/blob/main/gitHub.png)
