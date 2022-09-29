@@ -23,12 +23,12 @@ La fecha de creación de Github fué en 2008 por Chris Wanstrath, P. J. Hyett, T
 
 Es un sitio que permite a desarrolladores  almacenar sus trabajos donde la gente pueda colaborar con los proyectos de estos, para asi, hacer su propia versión o simplemente crear lo que ellos quieran.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2010--RobertoNobleMaestro/blob/main/gitHub.png)
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## [**Video explicativo**](https://www.youtube.com/watch?v=DinilgacaWs)
