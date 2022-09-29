@@ -7,7 +7,7 @@
 
 La fecha de creación de Github fué en 2008 por Scott Chacon y sus coofundadores.
 
-![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2008/blob/main/Senza-titolo-1-2-1024x576.webp)![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2010--RobertoNobleMaestro/blob/main/gitHub.png)
+![Foto](https://github.com/RobertoNobleMaestro/RobertoNobleMaestro-SMX2-M8UF1A1-Github-2008/blob/main/Senza-titolo-1-2-1024x576.webp)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
