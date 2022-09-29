@@ -5,7 +5,7 @@
 
 ### **Fecha de creación**
 
-La fecha de creación de Github fué en 2008.
+La fecha de creación de Github fué en 2008 por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon.
 
 ### **Definición**
 
